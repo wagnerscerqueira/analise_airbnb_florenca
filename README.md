@@ -10,23 +10,8 @@ Conectando pessoas que querem viajar (e se hospedar) a anfitriões que querem al
 
 Neste projeto, serão analisados os dados referentes à cidade de Florença, na Itália, a fim de verificar quais *insights* podem ser extraídos a partir de dados brutos.
 
-[Acesse aqui](https://bit.ly/3HCju7l)
+[Acesse aqui](https://bit.ly/3GG6OLK)
 
 **Acompanhe-me nas redes sociais:**
-* [Artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [Outro artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [LinkedIn](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Instagram](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Portfólio Completo](https://www.linkedin.com/in/rafael-n-duarte/)
-
-
-
-
-## Outros Projetos Meus:
-
-Business
-* **[Image Classification using Convolutional Neural Networks](https://bit.ly/3cdckqJ)**
-
-* **[Sales Forecast With Prophet](https://bit.ly/2wHiD6l)**
- 
-* **[RFM Customer Segmentation With K-Means](https://bit.ly/2RFTWi2)**
+* [LinkedIn](https://www.linkedin.com/in/wagnerscerqueira/)
+* [Medium](https://medium.com/@wagnerscerqueira)
