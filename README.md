@@ -12,6 +12,6 @@ Neste projeto, serão analisados os dados referentes à cidade de Florença, na 
 
 [Acesse aqui](https://bit.ly/3GG6OLK)
 
-**Acompanhe-me nas redes sociais:**
+#### **Acompanhe-me nas redes sociais:**
 * [LinkedIn](https://www.linkedin.com/in/wagnerscerqueira/)
 * [Medium](https://medium.com/@wagnerscerqueira)
