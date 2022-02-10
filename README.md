@@ -10,7 +10,7 @@ Conectando pessoas que querem viajar (e se hospedar) a anfitriões que querem al
 
 Neste projeto, serão analisados os dados referentes à cidade de Florença, na Itália, a fim de verificar quais *insights* podem ser extraídos a partir de dados brutos.
 
-[Acesse aqui](https://bit.ly/3GG6OLK)
+[Acesse aqui](https://bit.ly/34PdnOM)
 
 #### **Acompanhe-me nas redes sociais:**
 * [LinkedIn](https://www.linkedin.com/in/wagnerscerqueira/)
