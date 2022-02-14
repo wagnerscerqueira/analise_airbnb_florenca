@@ -12,6 +12,8 @@ Neste projeto, serão analisados os dados referentes à cidade de Florença, na 
 
 [Acesse aqui](https://bit.ly/34PdnOM)
 
+Artigo com o resumo da análise publicado no Medium, [clique aqui](https://medium.com/@wagnerscerqueira/analisando-os-dados-do-airbnb-floren%C3%A7a-2a7e4142f4fe)
+
 #### **Acompanhe-me nas redes sociais:**
 * [LinkedIn](https://www.linkedin.com/in/wagnerscerqueira/)
 * [Medium](https://medium.com/@wagnerscerqueira)
