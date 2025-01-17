@@ -11,10 +11,10 @@ By connecting people who want to travel (and stay) with hosts who want to rent t
 In this project, data from the city of Florence, Italy, will be analyzed to see what insights can be extracted from raw data.
 
 [English](http://bit.ly/40j2DRS)
-[Português](https://bit.ly/34PdnOM)
+<br>[Português](https://bit.ly/34PdnOM)
 
 Article with a summary of the analysis published on LinkedIn, [click here](https://www.linkedin.com/pulse/analisando-os-dados-do-airbnb-floren%C3%A7a-wagner-cerqueira/)
-Artigo com o resumo da análise publicado no Medium, [clique aqui](https://medium.com/@wagnerscerqueira/analisando-os-dados-do-airbnb-floren%C3%A7a-2a7e4142f4fe)
+<br>Artigo com o resumo da análise publicado no Medium, [clique aqui](https://medium.com/@wagnerscerqueira/analisando-os-dados-do-airbnb-floren%C3%A7a-2a7e4142f4fe)
 
 #### **Follow me on social media:**
 * [LinkedIn](https://www.linkedin.com/in/wagnerscerqueira/)
