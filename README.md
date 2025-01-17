@@ -2,18 +2,20 @@
   <img src="https://raw.githubusercontent.com/wagnerscerqueira/analise_airbnb_florenca/main/img/Airbnb-Logo.jpg" alt="Airbnb" height=50%>
 </p>
 
-## Analisando os dados do Airbnb - Florença
+## Analyzing Airbnb's Data - Florence
 
-O Airbnb já é considerado a **maior empresa hoteleira da atualidade**. E o detalhe é que ele **não possui nenhum hotel!**
+Airbnb is already considered the **largest hotel company today**. And the thing is, it **doesn't own any hotels!**
 
-Conectando pessoas que querem viajar (e se hospedar) a anfitriões que querem alugar seus imóveis de maneira prática, o Airbnb fornece uma plataforma inovadora para criar essa hospedagem alternativa.
+By connecting people who want to travel (and stay) with hosts who want to rent their properties in a practical way, Airbnb provides an innovative platform to create this alternative accommodation.
 
-Neste projeto, serão analisados os dados referentes à cidade de Florença, na Itália, a fim de verificar quais *insights* podem ser extraídos a partir de dados brutos.
+In this project, data from the city of Florence, Italy, will be analyzed to see what insights can be extracted from raw data.
 
-[Acesse aqui](https://bit.ly/34PdnOM)
+[English](http://bit.ly/40j2DRS)
+[Português](https://bit.ly/34PdnOM)
 
+Article with a summary of the analysis published on LinkedIn, [click here](https://www.linkedin.com/pulse/analisando-os-dados-do-airbnb-floren%C3%A7a-wagner-cerqueira/)
 Artigo com o resumo da análise publicado no Medium, [clique aqui](https://medium.com/@wagnerscerqueira/analisando-os-dados-do-airbnb-floren%C3%A7a-2a7e4142f4fe)
 
-#### **Acompanhe-me nas redes sociais:**
+#### **Follow me on social media:**
 * [LinkedIn](https://www.linkedin.com/in/wagnerscerqueira/)
 * [Medium](https://medium.com/@wagnerscerqueira)
